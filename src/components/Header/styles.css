@@ -1,0 +1,12 @@
+header{
+    padding: 0 20px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    background-color: var(--ct-color-bg-secondary);
+}
+
+.ct-container > h1 {
+    color: var(--ct-color-font-quaternary);
+    font-size: 24px;
+}
